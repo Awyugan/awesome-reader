@@ -20,9 +20,7 @@
 
 # 目录
 
-- [目录](##目录)
-
-## meta of book
+## 书之书
 
 常见书籍格式：
 
@@ -66,8 +64,6 @@ goodreads
 
 [calibre - E-book management](https://calibre-ebook.com/)
 [阅读记录APP](https://www.yidiansz.com/)
-
-
 
 ## 图书阅读
 
