@@ -126,6 +126,14 @@
 
 ##### 图书奖项
 
+获奖图书清单
+
+- [获奖童书数据库 DAWCL calendar of award announcements](http://www.dawcl.com/calendar.html)
+- [图书奖 Book Awards | Goodreads](https://www.goodreads.com/award)
+- [文学奖列表 List of literary awards//Wikipedia](https://en.wikipedia.org/w/index.php?title=List_of_literary_awards).
+- [有史以来最伟大的书籍 The Greatest Books](https://thegreatestbooks.org/)
+
+
 世界
 - [诺贝尔文学奖 List of nobel laureates in literature Wikipedia ](https://en.wikipedia.org/w/index.php?title=List_of_Nobel_laureates_in_Literature&oldid=1219548915#cite_note-LiteratureLaureates-5).
 
@@ -140,6 +148,8 @@
 法国
 
 ##### 书店
+
+
 
 ##### 动态书单
 
