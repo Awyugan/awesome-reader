@@ -59,9 +59,9 @@
 
 国际图书馆
 - [中国国家图书馆 · 中国国家数字图书馆 · 国家典籍博物馆](https://www.nlc.cn/web/index.shtml)
-- [大英图书馆//The British Library](https://www.bl.uk/).
-- [美国国会图书馆//Library of Congress, Washington, D.C. 20540 USA](https://www.loc.gov/visit/).
-- [法国国家图书馆//BnF - Site institutionnel. (2024-04-30)](https://www.bnf.fr/fr/node).
+- [大英图书馆 The British Library](https://www.bl.uk/).
+- [美国国会图书馆 Library of Congress](https://www.loc.gov/visit/).
+- [法国国家图书馆 BnF - Site institutionnel](https://www.bnf.fr/fr/node).
 - [荷兰国家图书馆](https://www.kb.nl/en)
 - [瑞士国家图书馆](https://www.nb.admin.ch/snl/en/home.html)
 - [新西兰国家图书馆](https://natlib.govt.nz/)
@@ -93,7 +93,7 @@
 - [WorldCat.org](https://search.worldcat.org)
 - [国家图书馆-文津搜索](http://find.nlc.cn/)
 - [上海图书馆-馆藏书目查询系统](https://vufind.library.sh.cn/)
-- [牛津书目 Oxford bibliographies - your best research starts here//obo](https://www.oxfordbibliographies.com/)
+- [牛津书目 Oxford bibliographies](https://www.oxfordbibliographies.com/)
 
 ##### 出版商
 
@@ -102,9 +102,9 @@
 ##### 书评
 
 - [纽约时报书评. New York Times](https://www.nytimes.com/section/books/review).
-- [自然 书评. (2024-04-22)](https://www.nature.com/nature/articles?type=book-review)
+- [自然 书评](https://www.nature.com/nature/articles?type=book-review)
 - [Booklist Online 公共图书馆和学校图书馆图书馆员的书评网站](https://www.booklistonline.com/)
-- [出版人周刊 publishers weekly//PublishersWeekly.com](https://www.publishersweekly.com/).
+- [出版人周刊 publishers weekly](https://www.publishersweekly.com/).
 - [图书馆期刊 Library Journal](https://www.libraryjournal.com/)
 - [Lire magazine, la passion des livres et des écrivains//Lire Magazine](https://www.lire.fr/).
 
@@ -127,7 +127,7 @@
 ##### 图书奖项
 
 世界
-- [诺贝尔文学奖 List of nobel laureates in literature//Wikipedia ](https://en.wikipedia.org/w/index.php?title=List_of_Nobel_laureates_in_Literature&oldid=1219548915#cite_note-LiteratureLaureates-5).
+- [诺贝尔文学奖 List of nobel laureates in literature Wikipedia ](https://en.wikipedia.org/w/index.php?title=List_of_Nobel_laureates_in_Literature&oldid=1219548915#cite_note-LiteratureLaureates-5).
 
 美国
 - [普利策奖 The pulitzer prizes](https://www.pulitzer.org/) [相关书单](https://www.adducation.info/general-knowledge-literature-philosophy/pulitzer-prize-winners/)
