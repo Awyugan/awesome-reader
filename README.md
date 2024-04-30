@@ -126,6 +126,18 @@
 
 ##### 图书奖项
 
+世界
+- [诺贝尔文学奖 List of nobel laureates in literature//Wikipedia ](https://en.wikipedia.org/w/index.php?title=List_of_Nobel_laureates_in_Literature&oldid=1219548915#cite_note-LiteratureLaureates-5).
+
+美国
+- [普利策奖 The pulitzer prizes](https://www.pulitzer.org/) [相关书单](https://www.adducation.info/general-knowledge-literature-philosophy/pulitzer-prize-winners/)
+- [美国国家图书奖 National book foundation//National Book Foundation](https://www.nationalbook.org/national-book-awards/years/). 最佳小说 非虚构 诗歌 翻译文学 青少年文学作品
+- [国家书评人协会奖 National Book Critics Circle Award](https://www.bookcritics.org/awards/past/)
+- [福克纳奖 Faulkner Awards](https://www.penfaulkner.org/our-awards/)
+- [Audie awards//Wikipedia](https://en.wikipedia.org/w/index.php?title=Audie_Awards&oldid=1218988146).
+- [纽曼中国文学奖 Newman prize for chinese literature](http://www.ou.edu/cis/research/institute-for-us-china-issues/us-china-cultural-issues/newman-prize-for-chinese-literature.html)
+
+法国
 
 ##### 书店
 
