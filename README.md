@@ -34,15 +34,15 @@
 
 - [豆瓣读书](https://book.douban.com/)
 - [Goodreads](https://www.goodreads.com/)
-- [微信读书-正版书籍小说免费阅读](https://weread.qq.com/)
+- [微信读书](https://weread.qq.com/)
 
 ##### 电商网站
 
 - [京东图书](https://book.jd.com/)
-- [最新上架 - 当当图书](https://book.dangdang.com/list/newRelease_P24.htm)
-- [Amazon.com 图书](https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155)
-- [NOBLE B &. Online Bookstore: Books, NOOK ebooks, Music, Movies & Toys//Barnes & Noble](https://www.barnesandnoble.com).
-- [歡迎光臨博客來//博客來.](https://www.books.com.tw/).
+- [当当图书](https://book.dangdang.com/list/newRelease_P24.htm)
+- [Amazon 图书](https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155)
+- [NOBLE B &. Online Bookstore](https://www.barnesandnoble.com).
+- [博客來](https://www.books.com.tw/).
 
 
 ##### 电子书网站
@@ -106,7 +106,7 @@
 - [Booklist Online 公共图书馆和学校图书馆图书馆员的书评网站](https://www.booklistonline.com/)
 - [出版人周刊 publishers weekly](https://www.publishersweekly.com/).
 - [图书馆期刊 Library Journal](https://www.libraryjournal.com/)
-- [Lire magazine, la passion des livres et des écrivains//Lire Magazine](https://www.lire.fr/).
+- [Lire magazine](https://www.lire.fr/).
 
 童书
 
