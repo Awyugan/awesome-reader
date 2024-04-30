@@ -2,7 +2,7 @@
 
 一些阅读者的好用工具，打造阅读与输出的舒适流程。因地域使用局限，暂不涉及中文以外的世界。
 
-本仓库条目内容均在[zotero-awesome_reader](https://www.zotero.org/groups/4993351/awesome-reader/)按对应目录储存
+本仓库条目内容均在 [zotero-awesome_reader](https://www.zotero.org/groups/4993351/awesome-reader/) 按对应目录储存
 
 发起这个项目并搭建框架时，发现这个内容量并不是我现在可以承载的。遂决定定期更新内容。
 
@@ -28,13 +28,80 @@
 
 ### 图书源
 
-豆瓣
-goodreads
-读秀
-国家图书馆
-世界图书
-美国
-期刊
+#### 大众信息源
+
+##### 社交网站
+
+- [豆瓣读书](https://book.douban.com/)
+- [Goodreads](https://www.goodreads.com/)
+- [微信读书-正版书籍小说免费阅读](https://weread.qq.com/)
+
+##### 电商网站
+
+- [京东图书](https://book.jd.com/)
+- [最新上架 - 当当图书](https://book.dangdang.com/list/newRelease_P24.htm)
+- [Amazon.com 图书](https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155)
+- [NOBLE B &. Online Bookstore: Books, NOOK ebooks, Music, Movies & Toys//Barnes & Noble](https://www.barnesandnoble.com).
+- [歡迎光臨博客來//博客來.](https://www.books.com.tw/).
+
+
+##### 电子书网站
+
+得到、豆瓣阅读、京东读书、当当电子书、微信读书等软件
+
+#### 专业信息源
+
+##### 图书馆
+
+**国家图书馆**
+
+- [国家和州立图书馆列表_List of national and state libraries_wikipedia ](https://en.wikipedia.org/wiki/List_of_national_and_state_libraries).
+
+国际图书馆
+- [中国国家图书馆 · 中国国家数字图书馆 · 国家典籍博物馆](https://www.nlc.cn/web/index.shtml)
+- [大英图书馆//The British Library](https://www.bl.uk/).
+- [美国国会图书馆//Library of Congress, Washington, D.C. 20540 USA](https://www.loc.gov/visit/).
+- [法国国家图书馆//BnF - Site institutionnel. (2024-04-30)](https://www.bnf.fr/fr/node).
+- [荷兰国家图书馆](https://www.kb.nl/en)
+- [瑞士国家图书馆](https://www.nb.admin.ch/snl/en/home.html)
+- [新西兰国家图书馆](https://natlib.govt.nz/)
+- [澳大利亚国家图书馆](https://www.nla.gov.au/)
+
+国内图书馆
+- [首都图书馆](https://www.clcn.net.cn/)
+- [上海图书馆](https://www.library.sh.cn/)
+- [广东省立中山图书馆](https://www.zslib.com.cn/)
+
+**大学图书馆**
+
+- [哈佛大学图书馆](https://library.harvard.edu/)
+- [斯坦福大学图书馆](https://library.stanford.edu/)
+- [耶鲁大学图书馆](https://library.yale.edu/)
+- [康奈尔大学图书馆](https://www.library.cornell.edu/)
+- [哥伦比亚大学图书馆](https://library.columbia.edu/)
+- [芝加哥大学图书馆](https://www.lib.uchicago.edu/)
+- [弗吉尼亚大学图书馆](https://www.library.virginia.edu/)
+- [华盛顿大学图书馆](https://www.lib.washington.edu/)
+- [牛津大学](https://www.ox.ac.uk/research/support-researchers/information-and-data-services/libraries)
+- [剑桥大学图书馆](https://www.lib.cam.ac.uk/)
+
+- [清华大学图书馆. ](https://lib.tsinghua.edu.cn/)
+- [北京大学图书馆. ](https://www.lib.pku.edu.cn/)
+
+##### 书目数据库
+
+##### 出版商
+
+##### 书评
+
+##### 图书奖项
+
+
+##### 书店
+
+##### 动态书单
+
+#####
 
 
 ### 软件
@@ -90,6 +157,11 @@ kindle
 
 ## 图书
 
+## 参考文献
+
+- 2023-05_ 阳志平. 聪明的阅读者：何为读？如何读？读什么？. 中信出版集团,https://book.douban.com/subject/36359767
+
+
 ## Changelog
 
 20230317 awyugan创建
@@ -97,6 +169,5 @@ kindle
 ## 许可
 
 [![CC0][CC0-badge]][CC0-link]
-
 [CC0-badge]: http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg
 [CC0-link]: https://creativecommons.org/publicdomain/zero/1.0/
