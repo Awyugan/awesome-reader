@@ -85,14 +85,44 @@
 - [牛津大学](https://www.ox.ac.uk/research/support-researchers/information-and-data-services/libraries)
 - [剑桥大学图书馆](https://www.lib.cam.ac.uk/)
 
-- [清华大学图书馆. ](https://lib.tsinghua.edu.cn/)
-- [北京大学图书馆. ](https://www.lib.pku.edu.cn/)
+- [清华大学图书馆](https://lib.tsinghua.edu.cn/)
+- [北京大学图书馆](https://www.lib.pku.edu.cn/)
 
 ##### 书目数据库
 
+- [WorldCat.org](https://search.worldcat.org)
+- [国家图书馆-文津搜索](http://find.nlc.cn/)
+- [上海图书馆-馆藏书目查询系统](https://vufind.library.sh.cn/)
+- [牛津书目 Oxford bibliographies - your best research starts here//obo](https://www.oxfordbibliographies.com/)
+
 ##### 出版商
 
+
+
 ##### 书评
+
+- [纽约时报书评. New York Times](https://www.nytimes.com/section/books/review).
+- [自然 书评. (2024-04-22)](https://www.nature.com/nature/articles?type=book-review)
+- [Booklist Online 公共图书馆和学校图书馆图书馆员的书评网站](https://www.booklistonline.com/)
+- [出版人周刊 publishers weekly//PublishersWeekly.com](https://www.publishersweekly.com/).
+- [图书馆期刊 Library Journal](https://www.libraryjournal.com/)
+- [Lire magazine, la passion des livres et des écrivains//Lire Magazine](https://www.lire.fr/).
+
+童书
+
+- [儿童图书中心公告 Bulletin of the Center for Children’s Books](https://bccb.ischool.illinois.edu/)
+- [角帜书杂志 The Horn Book Magazine](https://www.hbook.com/section/bookreviews)
+- [获奖童书数据库 DAWCL calendar of award announcements](http://www.dawcl.com/calendar.html)
+- [儿童文学综合数据库 CLCD-Children’s Literature Comprehensive Database `付费`](https://clcd.com/)
+- [学校图书馆杂志 School library journal](https://www.slj.com/)
+
+- [百道网 书单](https://www.bookdao.com/category/335242/)
+- [做書好书榜](https://mp.weixin.qq.com/mp/homepage?search_click_id=9361436470130197282-1714507766600-7187375245&__biz=MzA5NDExMjUwOA==&hid=8&sn=33f866eaa8683a138beb96c89f770b67&scene=18&uin=&key=&devicetype=iMac+Mac14%2C6+OSX+OSX+14.5+build(23F5064f)&version=13080710&lang=zh_CN&nettype=WIFI&ascene=65&fontScale=100)
+- 其他人文社科书评的微信公众号 蓑翁论书 上海书评 史学研究
+
+专家书评
+
+
 
 ##### 图书奖项
 
