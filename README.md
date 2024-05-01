@@ -198,6 +198,41 @@
 - [专业与学术卓越奖 professional and scholarly excellence awards//PROSE Awards](https://proseawards.com/winners/).
 - [英国皇家学会科学图书奖 Royal society prizes for science books//Wikipedia](https://en.wikipedia.org/w/index.php?title=Royal_Society_Prizes_for_Science_Books&oldid=1219851782).
 
+哲学
+
+- [西格蒙德•弗洛伊德奖 Sigmund freud prize//Wikipedia](https://en.wikipedia.org/w/index.php?title=Sigmund_Freud_Prize&oldid=1166417173).
+- [卡尔•雅斯贝尔斯奖 Karl jaspers prize//Wikipedia](https://en.wikipedia.org/w/index.php?title=Karl_Jaspers_Prize&oldid=1217563384).
+- [弗里德里希·尼采奖 Friedrich nietzsche prize//Wikipedia](https://en.wikipedia.org/w/index.php?title=Friedrich_Nietzsche_Prize&oldid=1104085728).
+- [美国哲学协会图书奖 The American Philosophical Association Book Prize](https://www.apaonline.org/page/book)
+- [美国美学协会杰出专著奖 american society for aesthetics outstanding monograph prize](https://aesthetics-online.org/page/MonographPrize)
+
+数学
+
+- [国际亚诺什•博雅伊数学奖 Bolyai prize//Wikipedia](https://en.wikipedia.org/w/index.php?title=Bolyai_Prize&oldid=1175776141) 表彰在过去10年中取得重要成果的数学家。
+- [费兰•苏尼尔·巴拉格尔奖 Ferran sunyer i balaguer prize//Wikipedia](https://en.wikipedia.org/w/index.php?title=Ferran_Sunyer_i_Balaguer_Prize&oldid=1209586045) 表彰杰出的数学专著。
+- [欧拉图书奖 Euler book prize//Wikipedia](https://en.wikipedia.org/w/index.php?title=Euler_Book_Prize&oldid=1214363566) 每年颁发给一本或更多优秀的数学图书。
+- [诺依曼奖 Neumann Prize//Wikipedia](https://en.wikipedia.org/w/index.php?title=British_Society_for_the_History_of_Mathematics&oldid=1190462881#Neumann_Prize) 在表彰数学史类图书。
+- [丹尼尔·索洛作家奖 Daniel solow author’s award](https://maa.org/programs/maa-awards/writing-awards/daniel-solow-authors-award) 表彰本科数学教材的作者
+
+物理学
+
+- [科学传播奖|美国物理研究所 science communication awards | american institute of physics](https://www.aip.org/aip/awards/science-communication) 2023年已终止 图书、文章、儿童写作、广播 
+新媒体
+- [安德鲁•杰曼特奖 Andrew gemant award//Wikipedia](https://en.wikipedia.org/w/index.php?title=Andrew_Gemant_Award&oldid=1141662377) 表彰为物理学做出重大文化、艺 
+术或人文贡献的个人。
+- [物理学世界年度图书 Physics World Book of the Year//Wikipedia](https://en.wikipedia.org/w/index.php?title=Physics_World&oldid=1218915589#Book_of_the_Year) 奖励那些杰出的物 
+理学大众科普著作。
+
+化学
+
+- [奥斯特奖 H. C. Ørsted medal//Wikipedia. ](https://en.wikipedia.org/w/index.php?title=H._C._%C3%98rsted_Medal&oldid=1110403329) 金奖颁发给上一年在物理或化学领域发表的杰出原创科学工作；银奖授予多年来为大众读者提供的杰出科学著作；青铜奖则用于通过非书面方式进行杰出的科学普及，例如在博物馆或通过商业。
+- [罗伊·内维尔奖 Roy G. Neville prize//Wikipedia ](https://en.wikipedia.org/w/index.php?title=Roy_G._Neville_Prize&oldid=1148249391) 表彰化学或分子科学领域的传记作品。
+
+生物学
+
+- [苏珊娜•莱文森奖 Suzanne J. Levinson prize//Wikipedia. ](https://en.wikipedia.org/w/index.php?title=Suzanne_J._Levinson_Prize&oldid=1169746562) 在奖励生命科学和自然史领域的杰 
+出作品。
+
 
 ##### 书店
 
