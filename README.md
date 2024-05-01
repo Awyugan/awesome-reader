@@ -154,6 +154,17 @@
 - [勒诺多文学奖 Prix renaudot//Wikipédia](https://fr.wikipedia.org/w/index.php?title=Prix_Renaudot&oldid=212619921)
 - [美第奇文学奖 Prix médicis//Wikipédia](https://fr.wikipedia.org/w/index.php?title=Prix_M%C3%A9dicis&oldid=212913319)
 
+英国
+
+- [詹姆斯·泰特·布莱克纪念奖 James tait black memorial prize//Wikipedia](https://en.wikipedia.org/w/index.php?title=James_Tait_Black_Memorial_Prize&oldid=1216553877) 初次颁奖在1919年，设立小说、传记、戏剧奖等奖项。
+- [豪森登奖 Hawthornden prize//Wikipedia](https://en.wikipedia.org/w/index.php?title=Hawthornden_Prize&oldid=1192704750) 诗歌奖或散文奖
+- [布克奖 Booker prize//Wikipedia](https://en.wikipedia.org/w/index.php?title=Booker_Prize&oldid=1218158885) 当代英语小说界最高奖项，使用英语写作的作家可以参与。
+- [科斯塔图书奖 Costa book awards//Wikipedia](https://en.wikipedia.org/w/index.php?title=Costa_Book_Awards&oldid=1219959170) 奖励文学价值或阅读预约的作品。目前公司被可口可乐公司收购后终止图书颁奖。
+- [沃尔夫森历史奖 Wolfson history prize//Wikipedia](https://en.wikipedia.org/w/index.php?title=Wolfson_History_Prize&oldid=1186002481) 英国最负盛名的历史奖，由历史学家组成的评审团选出。
+- [亚瑟·C·克拉克奖 Arthur C. Clarke award//Wikipedia](https://en.wikipedia.org/w/index.php?title=Arthur_C._Clarke_Award&oldid=1216745090) 科幻小说奖 颁发给过去一年在英国出版最好的科幻小说
+- [巴美列·捷福奖 Baillie gifford prize//Wikipedia](https://en.wikipedia.org/w/index.php?title=Baillie_Gifford_Prize&oldid=1221287803) 英国非虚构写作类图书最高奖项。
+
+
 ##### 书店
 
 
