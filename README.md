@@ -41,8 +41,8 @@
 - [京东图书](https://book.jd.com/)
 - [当当图书](https://book.dangdang.com/list/newRelease_P24.htm)
 - [Amazon 图书](https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155)
-- [NOBLE B &. Online Bookstore](https://www.barnesandnoble.com).
-- [博客來](https://www.books.com.tw/).
+- [NOBLE B &. Online Bookstore](https://www.barnesandnoble.com) 
+- [博客來](https://www.books.com.tw/) 
 
 
 ##### 电子书网站
@@ -55,13 +55,13 @@
 
 **国家图书馆**
 
-- [国家和州立图书馆列表_List of national and state libraries_wikipedia ](https://en.wikipedia.org/wiki/List_of_national_and_state_libraries).
+- [国家和州立图书馆列表_List of national and state libraries_wikipedia ](https://en.wikipedia.org/wiki/List_of_national_and_state_libraries) 
 
 国际图书馆
 - [中国国家图书馆 · 中国国家数字图书馆 · 国家典籍博物馆](https://www.nlc.cn/web/index.shtml)
-- [大英图书馆 The British Library](https://www.bl.uk/).
-- [美国国会图书馆 Library of Congress](https://www.loc.gov/visit/).
-- [法国国家图书馆 BnF - Site institutionnel](https://www.bnf.fr/fr/node).
+- [大英图书馆 The British Library](https://www.bl.uk/) 
+- [美国国会图书馆 Library of Congress](https://www.loc.gov/visit/) 
+- [法国国家图书馆 BnF - Site institutionnel](https://www.bnf.fr/fr/node) 
 - [荷兰国家图书馆](https://www.kb.nl/en)
 - [瑞士国家图书馆](https://www.nb.admin.ch/snl/en/home.html)
 - [新西兰国家图书馆](https://natlib.govt.nz/)
@@ -101,12 +101,12 @@
 
 ##### 书评
 
-- [纽约时报书评. New York Times](https://www.nytimes.com/section/books/review).
+- [纽约时报书评. New York Times](https://www.nytimes.com/section/books/review) 
 - [自然 书评](https://www.nature.com/nature/articles?type=book-review)
 - [Booklist Online 公共图书馆和学校图书馆图书馆员的书评网站](https://www.booklistonline.com/)
-- [出版人周刊 publishers weekly](https://www.publishersweekly.com/).
+- [出版人周刊 publishers weekly](https://www.publishersweekly.com/) 
 - [图书馆期刊 Library Journal](https://www.libraryjournal.com/)
-- [Lire magazine](https://www.lire.fr/).
+- [Lire magazine](https://www.lire.fr/) 
 
 童书
 
@@ -130,19 +130,21 @@
 
 - [获奖童书数据库 DAWCL calendar of award announcements](http://www.dawcl.com/calendar.html)
 - [图书奖 Book Awards | Goodreads](https://www.goodreads.com/award)
-- [文学奖列表 List of literary awards//Wikipedia](https://en.wikipedia.org/w/index.php?title=List_of_literary_awards).
+- [文学奖列表 List of literary awards//Wikipedia](https://en.wikipedia.org/w/index.php?title=List_of_literary_awards) 
 - [有史以来最伟大的书籍 The Greatest Books](https://thegreatestbooks.org/)
 
+###### 世界图书奖
 
-世界
-- [诺贝尔文学奖 List of nobel laureates in literature Wikipedia ](https://en.wikipedia.org/w/index.php?title=List_of_Nobel_laureates_in_Literature&oldid=1219548915#cite_note-LiteratureLaureates-5).
+- [诺贝尔文学奖 List of nobel laureates in literature Wikipedia ](https://en.wikipedia.org/w/index.php?title=List_of_Nobel_laureates_in_Literature&oldid=1219548915#cite_note-LiteratureLaureates-5) 
+
+###### 地区图书奖
 
 美国
 - [普利策奖 The pulitzer prizes](https://www.pulitzer.org/) [相关书单](https://www.adducation.info/general-knowledge-literature-philosophy/pulitzer-prize-winners/)
-- [美国国家图书奖 National book foundation//National Book Foundation](https://www.nationalbook.org/national-book-awards/years/). 最佳小说 非虚构 诗歌 翻译文学 青少年文学作品
+- [美国国家图书奖 National book foundation//National Book Foundation](https://www.nationalbook.org/national-book-awards/years/)  最佳小说 非虚构 诗歌 翻译文学 青少年文学作品
 - [国家书评人协会奖 National Book Critics Circle Award](https://www.bookcritics.org/awards/past/)
 - [福克纳奖 Faulkner Awards](https://www.penfaulkner.org/our-awards/)
-- [Audie awards//Wikipedia](https://en.wikipedia.org/w/index.php?title=Audie_Awards&oldid=1218988146).
+- [Audie awards//Wikipedia](https://en.wikipedia.org/w/index.php?title=Audie_Awards&oldid=1218988146) 
 - [纽曼中国文学奖 Newman prize for chinese literature](http://www.ou.edu/cis/research/institute-for-us-china-issues/us-china-cultural-issues/newman-prize-for-chinese-literature.html)
 
 法国
@@ -163,6 +165,38 @@
 - [沃尔夫森历史奖 Wolfson history prize//Wikipedia](https://en.wikipedia.org/w/index.php?title=Wolfson_History_Prize&oldid=1186002481) 英国最负盛名的历史奖，由历史学家组成的评审团选出。
 - [亚瑟·C·克拉克奖 Arthur C. Clarke award//Wikipedia](https://en.wikipedia.org/w/index.php?title=Arthur_C._Clarke_Award&oldid=1216745090) 科幻小说奖 颁发给过去一年在英国出版最好的科幻小说
 - [巴美列·捷福奖 Baillie gifford prize//Wikipedia](https://en.wikipedia.org/w/index.php?title=Baillie_Gifford_Prize&oldid=1221287803) 英国非虚构写作类图书最高奖项。
+
+德国
+
+德国文学的两个最重要奖项
+- [格奥尔格·毕希纳奖 Georg-büchner-preis//Wikipedia](https://de.wikipedia.org/w/index.php?title=Georg-B%C3%BCchner-Preis&oldid=244335211) 使用德语写作，作品对当代德国文化形成有贡献的作家。 
+- [美因河畔法兰克福市歌德奖 Goethepreis der stadt frankfurt am main//Wikipedia](https://de.wikipedia.org/w/index.php?title=Goethepreis_der_Stadt_Frankfurt_am_Main&oldid=236873496) 颁给那些反映歌德精神的作家。
+
+日本
+- [芥川龙之介奖（又称芥川奖）芥川龍之介賞//Wikipedia](https://ja.wikipedia.org/w/index.php?title=%E8%8A%A5%E5%B7%9D%E9%BE%8D%E4%B9%8B%E4%BB%8B%E8%B3%9E&oldid=99476091) 
+- [直木奖 直木三十五賞//Wikipedia](https://ja.wikipedia.org/w/index.php?title=%E7%9B%B4%E6%9C%A8%E4%B8%89%E5%8D%81%E4%BA%94%E8%B3%9E&oldid=99070731) 
+
+西班牙
+- [米格尔·德·塞万提斯奖 Premio miguel de cervantes//Wikipedia, la enciclopedia libre](https://es.wikipedia.org/w/index.php?title=Premio_Miguel_de_Cervantes&oldid=159729720) 被认为是西班牙语领域最重要的文学奖。
+
+中国
+- [曹禺戏剧奖](https://zh.wikipedia.org/w/index.php?title=%E6%9B%B9%E7%A6%BA%E6%88%8F%E5%89%A7%E5%A5%96&oldid=69809471) 
+- [中国戏剧奖](https://zh.wikipedia.org/w/index.php?title=%E4%B8%AD%E5%9B%BD%E6%88%8F%E5%89%A7%E5%A5%96&oldid=81934101) 
+- [茅盾文学奖](https://zh.wikipedia.org/w/index.php?title=%E8%8C%85%E7%9B%BE%E6%96%87%E5%AD%A6%E5%A5%96&oldid=81934148) 
+- [鲁迅文学奖](https://baike.baidu.com/item/%E9%B2%81%E8%BF%85%E6%96%87%E5%AD%A6%E5%A5%96/159357) 
+- [中国国家图书奖](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E5%A5%96/902336) 
+- [老舍文学奖](https://zh.wikipedia.org/w/index.php?title=%E8%80%81%E8%88%8D%E6%96%87%E5%AD%A6%E5%A5%96&oldid=77950063) 
+- [中华优秀出版物奖](https://baike.baidu.com/item/%E4%B8%AD%E5%8D%8E%E4%BC%98%E7%A7%80%E5%87%BA%E7%89%88%E7%89%A9%E5%A5%96/8960761) 
+- [中国出版政府奖](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%87%BA%E7%89%88%E6%94%BF%E5%BA%9C%E5%A5%96/553203) 
+- [冰心散文奖](https://baike.baidu.com/item/%E5%86%B0%E5%BF%83%E6%95%A3%E6%96%87%E5%A5%96/8325977) 
+- [文津图书奖](https://zh.wikipedia.org/w/index.php?title=%E6%96%87%E6%B4%A5%E5%9B%BE%E4%B9%A6%E5%A5%96&oldid=81961585) 
+
+###### 学科专业图书奖
+
+综合类
+
+- [专业与学术卓越奖 professional and scholarly excellence awards//PROSE Awards](https://proseawards.com/winners/).
+- [英国皇家学会科学图书奖 Royal society prizes for science books//Wikipedia](https://en.wikipedia.org/w/index.php?title=Royal_Society_Prizes_for_Science_Books&oldid=1219851782).
 
 
 ##### 书店
