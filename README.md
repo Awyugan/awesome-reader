@@ -146,6 +146,13 @@
 - [纽曼中国文学奖 Newman prize for chinese literature](http://www.ou.edu/cis/research/institute-for-us-china-issues/us-china-cultural-issues/newman-prize-for-chinese-literature.html)
 
 法国
+法国著名五大文学奖
+
+- [龚古尔文学奖 Prix goncourt//Wikipedia](https://en.wikipedia.org/w/index.php?title=Prix_Goncourt&oldid=1217900890)
+- [费米娜文学奖 Prix femina//Wikipédia](https://fr.wikipedia.org/w/index.php?title=Prix_Femina&oldid=214056741)
+- [法兰西学院文学大奖 Grand prix du roman de l’académie française//Wikipédia](https://fr.wikipedia.org/w/index.php?title=Grand_prix_du_roman_de_l%27Acad%C3%A9mie_fran%C3%A7aise&oldid=214256403)
+- [勒诺多文学奖 Prix renaudot//Wikipédia](https://fr.wikipedia.org/w/index.php?title=Prix_Renaudot&oldid=212619921)
+- [美第奇文学奖 Prix médicis//Wikipédia](https://fr.wikipedia.org/w/index.php?title=Prix_M%C3%A9dicis&oldid=212913319)
 
 ##### 书店
 
