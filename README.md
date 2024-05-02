@@ -328,11 +328,21 @@ NOBLE B &. - [Online Bookstore//Barnes & Noble](https://www.barnesandnoble.com)
 
 ## 图书阅读
 
+### 图书翻译
+
+- [沉浸式翻译 - 双语对照翻译](https://immersivetranslate.com/) 支持 pdf、epub、txt 等格式的图书翻译，支持自定义大语言模型api。
+- [书译](https://www.booktranslator.app/) 支持中文、英文、日文、韩文、西班牙文、法文、德文等多种语言的翻译，能够快速准确地将整本 **EPUB、PDF** 格式的书籍翻译成你想要的语言。最后更新日期2023年8月20日，暂未支持自定义大语言模型翻译api。
+书伴. - [bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) 一个 Calibre 插件，用于将电子书翻译成指定语言。支持免费翻译引擎 Google (Free)、DeepL (Free)、Microsoft Edge (Free)，付费翻译引擎 Google (Basic)、Google (Advanced)、ChatGPT (Azure)、Genimi Pro 有道翻译以及百度翻译。
+
+
 ### 读什么之争
 
 ### 阅读方法
 
-### 电子书阅读软件
+### 阅读软件
+
+- [marginnote](https://www.marginnote.com/) 苹果系的阅读软件
+
 
 ### 阅读好物
 
