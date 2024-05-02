@@ -24,13 +24,15 @@
 
 常见书籍纸张：
 
-## 图书获取
+介绍图书的书
 
-### 图书源
+## B.图书获取
 
-#### 大众信息源
+### B.1书单书源
 
-##### 社交网站
+#### B.1.1大众信息源
+
+##### B.1.1.1 社交网站
 
 - [豆瓣读书](https://book.douban.com/)
 - [Goodreads](https://www.goodreads.com/)
@@ -251,6 +253,8 @@
 - [雷切尔•卡森 学术图书奖 Rachel carson prize (academic book prize)//Wikipedia](https://en.wikipedia.org/w/index.php?title=Rachel_Carson_Prize_(academic_book_prize)&oldid=1119779243).
 - [理查德•泰特姆斯图书奖 The Richard Titmuss Book Award//Social Policy Association](https://social-policy.org.uk/spa-awards-previous-winners-2006-2019/).
 
+经济学类
+
 
 
 ##### 书店
@@ -261,8 +265,16 @@
 
 #####
 
+### B.2 阅读获取
+
+#### B.2.1购物网站
+
+同[电商网站](?tab=readme-ov-file#电商网站)
+
+#### 
 
 ### 软件
+
 
 
 ### 购买
