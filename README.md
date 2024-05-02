@@ -287,11 +287,19 @@ NOBLE B &. - [Online Bookstore//Barnes & Noble](https://www.barnesandnoble.com)
 - [Z-library](https://singlelogin.se/)
 - [安娜的档案](https://zh.annas-archive.org/)
 - [Jiumo search 鸠摩搜索](https://www.jiumodiary.com/) 
-
+- [古登堡计划 Project gutenberg//Project Gutenberg](https://www.gutenberg.org/) 世界上伟大的文学作品，尤其是美国版权已过期的旧作品。
 
 #### 插件/脚本
 
 - [zlibrary-searcher for chrome](https://chromewebstore.google.com/detail/zlibrary-searcher/hacdelicpoafdkmkehadcdfkmkakiclf) 可以在浏览器上快速搜索图书并下载 需要登录
+
+油猴脚本
+
+- [豆瓣读书添加其他页面检索
+](https://greasyfork.org/zh-CN/scripts/472385) 豆瓣读书添加其他页面检索。参考脚本替换链接即可在豆瓣添加检索。
+
+![豆瓣快速直达](https://static.aiwriter.net/2utuxsJh4CXi46hzmc3uZ3/xdHYXxxjxio9wCHGtoVZj3/pjqfvJAewkrJDbQYdVGbzp)
+
 
 #### 图书馆
 
@@ -309,13 +317,6 @@ NOBLE B &. - [Online Bookstore//Barnes & Noble](https://www.barnesandnoble.com)
 
 - 
 
-### 油猴脚本
-
-#### 豆瓣
-
-- [豆瓣读书直达江苏大学图书馆搜索](https://greasyfork.org/zh-CN/scripts/373109-%E8%B1%86%E7%93%A3%E8%AF%BB%E4%B9%A6%E7%9B%B4%E8%BE%BE%E6%B1%9F%E8%8B%8F%E5%A4%A7%E5%AD%A6%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%90%9C%E7%B4%A2) 可借助这个脚本添加到其他网站的自定义链接。
-
-![豆瓣快速直达](https://static.aiwriter.net/2utuxsJh4CXi46hzmc3uZ3/xdHYXxxjxio9wCHGtoVZj3/pjqfvJAewkrJDbQYdVGbzp)
 
 ## 图书管理
 
@@ -323,7 +324,7 @@ NOBLE B &. - [Online Bookstore//Barnes & Noble](https://www.barnesandnoble.com)
 
 [calibre - E-book management](https://calibre-ebook.com/)
 [阅读记录APP](https://www.yidiansz.com/)
-[zotero](https://www.zotero.org/)
+[zotero](https://www.zotero.org/) 管理图书条目的最佳本地软件
 
 ## 图书阅读
 
@@ -347,6 +348,8 @@ kindle
 卡片
 
 ### 软件
+
+[zotero](https://www.zotero.org/) 管理图书条目的最佳本地软件，可在对应条目中添加阅读笔记。
 
 ### 文章案例
 
