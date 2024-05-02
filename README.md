@@ -225,13 +225,32 @@
 
 化学
 
-- [奥斯特奖 H. C. Ørsted medal//Wikipedia. ](https://en.wikipedia.org/w/index.php?title=H._C._%C3%98rsted_Medal&oldid=1110403329) 金奖颁发给上一年在物理或化学领域发表的杰出原创科学工作；银奖授予多年来为大众读者提供的杰出科学著作；青铜奖则用于通过非书面方式进行杰出的科学普及，例如在博物馆或通过商业。
+- [奥斯特奖 H. C. Ørsted medal//Wikipedia](https://en.wikipedia.org/w/index.php?title=H._C._%C3%98rsted_Medal&oldid=1110403329) 金奖颁发给上一年在物理或化学领域发表的杰出原创科学工作；银奖授予多年来为大众读者提供的杰出科学著作；青铜奖则用于通过非书面方式进行杰出的科学普及，例如在博物馆或通过商业。
 - [罗伊·内维尔奖 Roy G. Neville prize//Wikipedia ](https://en.wikipedia.org/w/index.php?title=Roy_G._Neville_Prize&oldid=1148249391) 表彰化学或分子科学领域的传记作品。
 
 生物学
 
-- [苏珊娜•莱文森奖 Suzanne J. Levinson prize//Wikipedia. ](https://en.wikipedia.org/w/index.php?title=Suzanne_J._Levinson_Prize&oldid=1169746562) 在奖励生命科学和自然史领域的杰 
+- [苏珊娜•莱文森奖 Suzanne J. Levinson prize//Wikipedia](https://en.wikipedia.org/w/index.php?title=Suzanne_J._Levinson_Prize&oldid=1169746562) 在奖励生命科学和自然史领域的杰 
 出作品。
+
+历史学
+
+- [赫伯特•巴克斯特•亚当斯奖 Herbert baxter adams prize//Wikipedia](https://en.wikipedia.org/w/index.php?title=Herbert_Baxter_Adams_Prize&oldid=1214012747).
+- [弗朗西斯•帕克曼奖 Francis parkman prize//Wikipedia](https://en.wikipedia.org/w/index.php?title=Francis_Parkman_Prize&oldid=1155095865).
+- [费正清东亚历史奖 John K. Fairbank prize//Wikipedia](https://en.wikipedia.org/w/index.php?title=John_K._Fairbank_Prize&oldid=1184593682).
+- [沃尔夫森历史奖 Wolfson history prize//Wikipedia](https://en.wikipedia.org/w/index.php?title=Wolfson_History_Prize&oldid=1186002481).
+
+社会学
+
+- [赖特•米尔斯奖 C. Wright mills award//Wikipedia](https://en.wikipedia.org/w/index.php?title=C._Wright_Mills_Award&oldid=1189166895).
+- [美国社会学学会理论图书奖 |美国社会学协会 Theory Prize for Outstanding Book | american sociological association](https://www.asanet.org/theory-award-recipient-history/)
+- [杰出学术图书奖|美国社会学协会 Distinguished Scholarly Book Award | American Sociological Association](https://www.asanet.org/about/awards/distinguished-scholarly-book-award/)
+- [查尔斯•蒂利奖最佳书籍奖 Charles tilly award for best book//Wikipedia](https://en.wikipedia.org/w/index.php?title=Charles_Tilly_Award_for_Best_Book&oldid=1209514166#cite_note-1).
+- [列文森图书奖 Joseph levenson book prize//Wikipedia](https://en.wikipedia.org/w/index.php?title=Joseph_Levenson_Book_Prize&oldid=1214695001).
+- [皮埃尔•布尔迪厄奖 Pierre Bourdieu Award](https://www.asanet.org/communities-and-sections/sections/current-sections/sociology-of-education-award-recipient-history/)
+- [雷切尔•卡森 学术图书奖 Rachel carson prize (academic book prize)//Wikipedia](https://en.wikipedia.org/w/index.php?title=Rachel_Carson_Prize_(academic_book_prize)&oldid=1119779243).
+- [理查德•泰特姆斯图书奖 The Richard Titmuss Book Award//Social Policy Association](https://social-policy.org.uk/spa-awards-previous-winners-2006-2019/).
+
 
 
 ##### 书店
