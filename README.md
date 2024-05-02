@@ -269,9 +269,33 @@
 
 #### B.2.1购物网站
 
-同[电商网站](?tab=readme-ov-file#电商网站)
+- [京东图书](https://book.jd.com/) 京东满减图书优惠力度比较大
+- [当当图书](https://book.dangdang.com/list/newRelease_P24.htm) 当当图书通常在读书节日有半价优惠
+- [Amazon 图书](https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&node=283155)
+NOBLE B &. - [Online Bookstore//Barnes & Noble](https://www.barnesandnoble.com)
+- [博客來//博客來](https://www.books.com.tw/)
 
-#### 
+二手书
+
+- [多抓鱼](https://www.duozhuayu.com/book) 通常价格比较低，绝版书需要排队
+- [孔夫子旧书网](https://www.kongfz.com/) 大多数旧书都可以在这里找到
+
+孔夫子
+
+#### 电子书
+
+- [Z-library](https://singlelogin.se/)
+- [安娜的档案](https://zh.annas-archive.org/)
+- [Jiumo search 鸠摩搜索](https://www.jiumodiary.com/) 
+
+
+#### 插件/脚本
+
+- [zlibrary-searcher for chrome](https://chromewebstore.google.com/detail/zlibrary-searcher/hacdelicpoafdkmkehadcdfkmkakiclf) 可以在浏览器上快速搜索图书并下载 需要登录
+
+#### 图书馆
+
+参考上文的图书馆列表和当地的图书馆网站
 
 ### 软件
 
@@ -299,6 +323,7 @@
 
 [calibre - E-book management](https://calibre-ebook.com/)
 [阅读记录APP](https://www.yidiansz.com/)
+[zotero](https://www.zotero.org/)
 
 ## 图书阅读
 
