@@ -1,6 +1,6 @@
 # awesome--reader
 
-一些阅读者的好用工具，打造阅读与输出的舒适流程。因地域使用局限，暂不涉及中文以外的世界。
+一些阅读者的好用工具，打造阅读与输出的舒适流程。因地域使用局限，暂只涉及中文用户。
 
 本仓库条目内容均在 [zotero-awesome_reader](https://www.zotero.org/groups/4993351/awesome-reader/) 按对应目录储存
 
