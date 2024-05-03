@@ -288,6 +288,8 @@ NOBLE B &. - [Online Bookstore//Barnes & Noble](https://www.barnesandnoble.com)
 - [安娜的档案](https://zh.annas-archive.org/)
 - [Jiumo search 鸠摩搜索](https://www.jiumodiary.com/) 
 - [古登堡计划 Project gutenberg//Project Gutenberg](https://www.gutenberg.org/) 世界上伟大的文学作品，尤其是美国版权已过期的旧作品。
+- [适用于 🌐全国图书馆参考咨询联盟 的用户脚本. ](https://greasyfork.org/zh-CN/scripts/by-site/superlib.net?filter_locale=0) 通过这个方法，你可以购买可查询的图书。
+
 
 #### 插件/脚本
 
