@@ -103,6 +103,7 @@
 
 ##### 书评
 
+国际书单
 - [纽约时报书评. New York Times](https://www.nytimes.com/section/books/review) 
 - [自然 书评](https://www.nature.com/nature/articles?type=book-review)
 - [Booklist Online 公共图书馆和学校图书馆图书馆员的书评网站](https://www.booklistonline.com/)
@@ -118,11 +119,17 @@
 - [儿童文学综合数据库 CLCD-Children’s Literature Comprehensive Database `付费`](https://clcd.com/)
 - [学校图书馆杂志 School library journal](https://www.slj.com/)
 
+国内书单
+
 - [百道网 书单](https://www.bookdao.com/category/335242/)
 - [做書好书榜](https://mp.weixin.qq.com/mp/homepage?search_click_id=9361436470130197282-1714507766600-7187375245&__biz=MzA5NDExMjUwOA==&hid=8&sn=33f866eaa8683a138beb96c89f770b67&scene=18&uin=&key=&devicetype=iMac+Mac14%2C6+OSX+OSX+14.5+build(23F5064f)&version=13080710&lang=zh_CN&nettype=WIFI&ascene=65&fontScale=100)
 - 其他人文社科书评的微信公众号 蓑翁论书 上海书评 史学研究
 
 专家书评
+
+- [五本书 Five Books](https://fivebooks.com/).
+- [书局 BookAuthority](https://bookauthority.org/) 提供各个领域的非虚构类书籍推荐的平台。它提供了基于在线研究以及商业和技术人士直接推荐的精选书籍清单。
+
 
 
 
