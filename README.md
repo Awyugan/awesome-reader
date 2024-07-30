@@ -262,6 +262,8 @@
 
 经济学类
 
+- [杰拉尔德•勒布奖 Gerald loeb award](https://en.wikipedia.org/w/index.php?title=Gerald_Loeb_Award&oldid=1203940895).
+- [约瑟夫•斯宾格勒图书奖 Spengler book prize The History of Economics Society. ](https://historyofeconomics.org/awards-and-honors/spengler-book-prize/).
 
 
 ##### 书店
