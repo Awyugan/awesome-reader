@@ -191,8 +191,8 @@
 中国
 - [曹禺戏剧奖](https://zh.wikipedia.org/w/index.php?title=%E6%9B%B9%E7%A6%BA%E6%88%8F%E5%89%A7%E5%A5%96&oldid=69809471) 
 - [中国戏剧奖](https://zh.wikipedia.org/w/index.php?title=%E4%B8%AD%E5%9B%BD%E6%88%8F%E5%89%A7%E5%A5%96&oldid=81934101) 
-- [茅盾文学奖](https://zh.wikipedia.org/w/index.php?title=%E8%8C%85%E7%9B%BE%E6%96%87%E5%AD%A6%E5%A5%96&oldid=81934148) 
-- [鲁迅文学奖](https://baike.baidu.com/item/%E9%B2%81%E8%BF%85%E6%96%87%E5%AD%A6%E5%A5%96/159357) 
+- [茅盾文学奖](https://zh.wikipedia.org/w/index.php?title=%E8%8C%85%E7%9B%BE%E6%96%87%E5%AD%A6%E5%A5%96&oldid=81934148)  1982年起，奖励优秀长篇小说。
+- [鲁迅文学奖](https://baike.baidu.com/item/%E9%B2%81%E8%BF%85%E6%96%87%E5%AD%A6%E5%A5%96/159357) 奖励优秀中篇小说、短篇小说、报告文学、诗歌、散文杂文、文学理论评论的创作，奖励中外文学作品的翻译，推动中国文学事业的繁荣发展。
 - [中国国家图书奖](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%9B%BE%E4%B9%A6%E5%A5%96/902336) 
 - [老舍文学奖](https://zh.wikipedia.org/w/index.php?title=%E8%80%81%E8%88%8D%E6%96%87%E5%AD%A6%E5%A5%96&oldid=77950063) 
 - [中华优秀出版物奖](https://baike.baidu.com/item/%E4%B8%AD%E5%8D%8E%E4%BC%98%E7%A7%80%E5%87%BA%E7%89%88%E7%89%A9%E5%A5%96/8960761) 
