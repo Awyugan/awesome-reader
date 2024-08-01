@@ -218,7 +218,7 @@
 数学
 
 - [国际亚诺什•博雅伊数学奖 Bolyai prize//Wikipedia](https://en.wikipedia.org/w/index.php?title=Bolyai_Prize&oldid=1175776141) 表彰在过去10年中取得重要成果的数学家。
-- [费兰•苏尼尔·巴拉格尔奖 Ferran sunyer i balaguer prize//Wikipedia](https://en.wikipedia.org/w/index.php?title=Ferran_Sunyer_i_Balaguer_Prize&oldid=1209586045) 表彰杰出的数学专著。
+- [费兰•苏尼尔·巴拉格尔奖 Ferran sunyer i balaguer prize//Wikipedia](https://en.wikipedia.org/w/index.php?title=Ferran_Sunyer_i_Balaguer_Prize&oldid=1209586045) 表彰杰出的数学专著。[The Ferran Sunyer i Balaguer Prize (official website)](https://ffsb.espais.iec.cat/en/the-ferran-sunyer-i-balaguer-prize/)
 - [欧拉图书奖 Euler book prize//Wikipedia](https://en.wikipedia.org/w/index.php?title=Euler_Book_Prize&oldid=1214363566) 每年颁发给一本或更多优秀的数学图书。
 - [诺依曼奖 Neumann Prize//Wikipedia](https://en.wikipedia.org/w/index.php?title=British_Society_for_the_History_of_Mathematics&oldid=1190462881#Neumann_Prize) 在表彰数学史类图书。
 - [丹尼尔·索洛作家奖 Daniel solow author’s award](https://maa.org/programs/maa-awards/writing-awards/daniel-solow-authors-award) 表彰本科数学教材的作者
