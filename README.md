@@ -353,6 +353,7 @@ NOBLE B &. - [Online Bookstore//Barnes & Noble](https://www.barnesandnoble.com)
 ### 阅读软件
 
 - [marginnote](https://www.marginnote.com/) 苹果系的阅读软件
+- [Glim](https://github.com/NeoPanic/Glim) 开源 macOS 文件查看器，支持 EPUB、FB2、CBZ 阅读，提供目录导航、阅读位置保存与字体设置，也可预览 PDF。
 
 
 ### 阅读好物
